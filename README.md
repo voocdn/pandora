@@ -1,2 +1,2 @@
-# static
-static file
+#pandora
+ABOUT PANDORA  LATEST NEWS
