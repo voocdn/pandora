@@ -3,9 +3,9 @@
 (function ($) {
 	
 	var // 设置加载状态的替换图像
-		tempPath = 'https://cdn.jsdelivr.net/gh/voocdn/static/js/loading.png',
+		tempPath = 'loading.png',
 		// 设置加载错误的替换图像
-		errorPath = 'https://cdn.jsdelivr.net/gh/voocdn/static/js/error.png',
+		errorPath = 'error.png',
 		// 检测是否支持css2.1 max-width属性
 		isMaxWidth = 'maxWidth' in document.documentElement.style,
 		// 检测是否IE7浏览器
